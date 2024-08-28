@@ -2,9 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
-.csv
-.qs
-.R
-.key
-.pdf
-.numbers
+.DS_Store
+*.Rproj
+*.csv
+*.qs
+*.R
+*.key
+*.pdf
+*.numbers
